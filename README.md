@@ -1,0 +1,2 @@
+# SwiftTypeErasurePlayground
+Type erasure test
